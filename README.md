@@ -50,7 +50,7 @@ I’m a Front End Web developer passionate about making error-free websites with
 ## 📫 You can find me @
 <!-- YOU-CAN-FIND-ME:START -->
 - [X(Twitter)](https://x.com/AhamdMaimun) 🐤
-- [LinkedIn](www.linkedin.com/in/ahmad-maimun) 💼
+- [LinkedIn](https://www.linkedin.com/in/ahmad-maimun/) 💼
 - [Facebook](https://www.facebook.com/ahmad.maimun.wdd) 😏
 <!-- YOU-CAN-FIND-ME:END -->
 
