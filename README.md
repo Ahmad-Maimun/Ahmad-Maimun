@@ -1,5 +1,4 @@
-# Hi, I'm Yasin Sarkar 👋 
-[<img src='https://github.com/yasin-sorkar47/yasin-sorkar47/blob/main/image/banner.jpg' alt='Yasin Sarkar'>](https://github.com/yasin-sorkar47/)
+# Hi, I'm Ahmad Maimun 👋 
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <br>
@@ -18,7 +17,7 @@
 <br>
 <br>
 <br>
-<p align="left"> <a href="https://x.com/yasinsorkar47" target="blank"><img src="https://img.shields.io/twitter/follow/yasinsorkar47?logo=twitter&style=for-the-badge" alt="shovoalways" /></a> </p>
+<p align="left"> <a href="https://x.com/AhamdMaimun" target="blank"><img src="https://img.shields.io/twitter/follow/AhmadMaimun?logo=twitter&style=for-the-badge" alt="shovoalways" /></a> </p>
 
 ## 🚀 About Me
 I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. I created a lots of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. I enjoy working with Tailwindcss, daisyUI, ReactJS, JavaScript as well as Next.js. 
@@ -35,24 +34,24 @@ I’m a Front End Web developer passionate about making error-free websites with
 ## 📈 My GitHub Stats
 ### GitHub Stars
 
-![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=yasin-sorkar47&show_icons=true&theme=radical)
+![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=Ahmad-Maimun&show_icons=true&theme=radical)
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasin-sorkar47&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Maimun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=yasin-sorkar47&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ahmad-Maimun&theme=juicyfresh&no-bg=true" />
 
 ####  Github Link
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasin-sorkar47&label=Profile%20views&color=0e75b6&style=flat" alt="yasin-sorkar47" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmad-Maimun&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmad-Maimun" /> </p>
 
 ## 📫 You can find me @
 <!-- YOU-CAN-FIND-ME:START -->
-- [X(Twitter)](https://x.com/yasinsorkar47) 🐤
-- [LinkedIn](https://www.linkedin.com/in/mdyacin-sorkar-24444b298/) 💼
-- [Facebook](https://www.facebook.com/yasinSarkar47) 😏
+- [X(Twitter)](https://x.com/AhamdMaimun) 🐤
+- [LinkedIn](www.linkedin.com/in/ahmad-maimun) 💼
+- [Facebook](https://www.facebook.com/ahmad.maimun.wdd) 😏
 <!-- YOU-CAN-FIND-ME:END -->
 
 
