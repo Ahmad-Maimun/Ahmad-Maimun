@@ -1,6 +1,6 @@
 # Hi, I'm Ahmad Maimun 👋 
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
 <br>
 <br>
 
